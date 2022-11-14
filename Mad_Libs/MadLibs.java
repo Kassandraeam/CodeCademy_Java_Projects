@@ -1,3 +1,4 @@
+package Mad_Libs;
 
 public class MadLibs {
     /*
