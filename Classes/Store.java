@@ -1,4 +1,4 @@
-package Magic;
+package Classes;
 
 public class Store {
     // instance fields
